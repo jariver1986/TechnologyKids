@@ -11,3 +11,6 @@ The use of technology in the treatment of infants with autism has proven to be a
 - --Antes
 - --Despues
 - Restructuracion de metodo de tratamiento
+-Plan de mejoras
+---
+---
